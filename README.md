@@ -3,13 +3,16 @@ Nama         : Nathanael Satya Saputra <br />
 Kelompok     : Fourier
 
 -----
-**Judul        : Kalkulator Statistika Sederhana** <br />
-Deskripsi      : <br />
+🚀 **Judul        : Kalkulator Statistika Sederhana** <br />
+🪐 Deskripsi      : <br />
 
 Program Kalkulator Statistika Sederhana dirancang untuk mempermudah user dalam melakukan perhitungan statistika dasar seperti rata-rata, median, modus dan perhitungan lainnya dengan cepat dan akurat. Program ini juga dirancang untuk dapat membaca file csv atau comma separated value sehingga memudahkan pengguna untuk mengimport data untuk perhitungan statistika dasar.
 
+🌌 Manfaat        : <br />
+Program Kalkulator Statistika Sederhana dapat membantu pengguna dalam analisis data dengan cara yang lebih mudah dan efisien. Program ini memungkinkan pengguna untuk lebih fokus terhadap interpretasi statistika tanpa perlu memikirkan perhitungan manual sehingga dapat mempercepat proses analisis statistika. 
+
 ---
-**Menu Program**
+🍔 **Menu Program**
 Dalam program ini terdiri dari beberapa menu seperti:
 - Input Data <br /> 
   Data yang dapat di inputkan hanya berupa data csv atau comma separated value.
